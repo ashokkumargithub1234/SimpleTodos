@@ -1,7 +1,7 @@
-import TodosTwist from './components/TodosTwist'
+import SimpleTodos from './components/SimpleTodos'
 
 import './App.css'
 
-const App = () => <TodosTwist />
+const App = () => <SimpleTodos />
 
 export default App
